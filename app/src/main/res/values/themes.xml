@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LAB_WEEK_11_B" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- kustomisasi light theme -->
+    </style>
+
+    <style name="Theme.LAB_WEEK_11_B" parent="Base.Theme.LAB_WEEK_11_B" />
+</resources>
